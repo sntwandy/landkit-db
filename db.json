@@ -5,6 +5,8 @@
 	"articles": [
 		{
 			"id": "001",
+			"price": "$49",
+			"time": "MO",
 			"title": "Keeping the dream alive by traveling the world.",
 			"description": "Integrate the latest technologies with an innovative platform...",
 			"image": "https://i.imgur.com/KuMhf9A.png",
@@ -14,6 +16,8 @@
 		},
 		{
 			"id": "002",
+			"price": "$59",
+			"time": "WE",
 			"title": "Keeping the dream alive by traveling the world.",
 			"description": "Integrate the latest technologies with an innovative platform...",
 			"image": "https://i.imgur.com/0VOgv4X.png",
@@ -23,6 +27,8 @@
 		},
 		{
 			"id": "003",
+			"price": "$35",
+			"time": "WE",
 			"title": "Keeping the dream alive by traveling the world.",
 			"description": "Integrate the latest technologies with an innovative platform...",
 			"image": "https://i.imgur.com/NvX18NM.png",
@@ -32,6 +38,8 @@
 		},
 		{
 			"id": "004",
+			"price": "$69",
+			"time": "MO",
 			"title": "Keeping the dream alive by traveling the world.",
 			"description": "Integrate the latest technologies with an innovative platform...",
 			"image": "https://i.imgur.com/KuMhf9A.png",
@@ -41,6 +49,8 @@
 		},
 		{
 			"id": "005",
+			"price": "$28",
+			"time": "MO",
 			"title": "Keeping the dream alive by traveling the world.",
 			"description": "Integrate the latest technologies with an innovative platform...",
 			"image": "https://i.imgur.com/0VOgv4X.png",
@@ -50,6 +60,8 @@
 		},
 		{
 			"id": "006",
+			"price": "$11",
+			"time": "WE",
 			"title": "Keeping the dream alive by traveling the world.",
 			"description": "Integrate the latest technologies with an innovative platform...",
 			"image": "https://i.imgur.com/NvX18NM.png",
