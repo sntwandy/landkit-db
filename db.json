@@ -1,5 +1,22 @@
 {
 	"info": {
 		"date": "17/09/2017"
-	}
+	},
+	"articles": [
+		{
+			"title": "Keeping the dream alive by traveling the world.",
+			"description": "Integrate the latest technologies with an innovative platform...",
+			"image": "https://www.w3schools.com/howto/img_snow.jpg"
+		},
+		{
+			"title": "Keeping the dream alive by traveling the world.",
+			"description": "Integrate the latest technologies with an innovative platform...",
+			"image": "https://www.w3schools.com/howto/img_snow.jpg"
+		},
+		{
+			"title": "Keeping the dream alive by traveling the world.",
+			"description": "Integrate the latest technologies with an innovative platform...",
+			"image": "https://github.com/sntwandy/landkitdb/assets/image1.png"
+		}
+	]
 }
