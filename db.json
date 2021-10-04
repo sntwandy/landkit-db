@@ -12,7 +12,8 @@
 			"image": "https://i.imgur.com/KuMhf9A.png",
 			"author_img": "https://i.imgur.com/jnaP6IT.png",
 			"author": "Alive Cooper",
-			"date": "May 04"
+			"date": "May 04",
+			"color": "#42BA96"
 		},
 		{
 			"id": "002",
@@ -23,7 +24,8 @@
 			"image": "https://i.imgur.com/0VOgv4X.png",
 			"author_img": "https://i.imgur.com/jnaP6IT.png",
 			"author": "Alive Cooper",
-			"date": "May 07"
+			"date": "May 07",
+			"color": "#F2C94C"
 		},
 		{
 			"id": "003",
@@ -33,8 +35,9 @@
 			"description": "Integrate the latest technologies with an innovative platform...",
 			"image": "https://i.imgur.com/NvX18NM.png",
 			"author_img": "https://i.imgur.com/jnaP6IT.png",
-			"author": "Alive Cooper",
-			"date": "May 11"
+			"author": "Sofia Misses",
+			"date": "May 11",
+			"color": "#DF4759"
 		},
 		{
 			"id": "004",
@@ -44,8 +47,9 @@
 			"description": "Integrate the latest technologies with an innovative platform...",
 			"image": "https://i.imgur.com/KuMhf9A.png",
 			"author_img": "https://i.imgur.com/jnaP6IT.png",
-			"author": "Alive Cooper",
-			"date": "May 15"
+			"author": "Atenas Eliza",
+			"date": "May 15",
+			"color": "#42BA96"
 		},
 		{
 			"id": "005",
@@ -55,8 +59,9 @@
 			"description": "Integrate the latest technologies with an innovative platform...",
 			"image": "https://i.imgur.com/0VOgv4X.png",
 			"author_img": "https://i.imgur.com/jnaP6IT.png",
-			"author": "Alive Cooper",
-			"date": "May 21"
+			"author": "Michael Pop",
+			"date": "May 21",
+			"color": "#F2C94C"
 		},
 		{
 			"id": "006",
@@ -66,8 +71,9 @@
 			"description": "Integrate the latest technologies with an innovative platform...",
 			"image": "https://i.imgur.com/NvX18NM.png",
 			"author_img": "https://i.imgur.com/jnaP6IT.png",
-			"author": "Alive Cooper",
-			"date": "May 29"
+			"author": "Jorge Frankurt",
+			"date": "May 29",
+			"color": "#DF4759"
 		}
 	]
 }
